@@ -1,4 +1,4 @@
-name: /Users/liumeow/Documents/工作/fiisu_test/env
+name: fiisual_env
 channels:
   - conda-forge
   - defaults
@@ -201,4 +201,3 @@ dependencies:
   - pip:
       - undetected-chromedriver==3.5.5
       - websockets==15.0.1
-prefix: /Users/liumeow/Documents/工作/fiisu_test/env
