@@ -8,13 +8,10 @@
 - 個股日行情資料（日 K 線）
 
 ## 📁 專案結構說明
-project-root/
-├── environment.yml # Conda 環境設定檔
-├── main.py # 主程式（執行爬蟲與寫入資料庫）
-├── utils/ # 資料處理與爬蟲輔助模組
-├── data/ # 可選：範例輸出或測試資料
-├── output/ # 可選：儲存資料庫檔案（如 SQLite）
-└── README.md # 本文件
+fiisu-stock-crawler/
+├── README.md                # 使用說明與環境安裝指南
+├── environment.yml          # Conda 環境設定檔
+├── fiisu_crawler.ipynb      # 主爬蟲程式（Jupyter Notebook 格式）
 
 ## ⚙️ 安裝與啟動說明
 
