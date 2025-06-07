@@ -24,4 +24,8 @@ project-root/
 
 ```bash
 conda env create -f environment.yml
-conda activate stockinfo
+conda activate /Users/liumeow/Documents/工作/fiisu_test/env
+```
+
+2. 執行主程式
+
