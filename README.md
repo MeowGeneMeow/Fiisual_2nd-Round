@@ -26,5 +26,5 @@ conda env create -f environment.yml
 conda activate /Users/liumeow/Documents/工作/fiisu_test/env
 ```
 
-2. 執行主程式
+### 2. 執行主程式
 
